@@ -4,5 +4,4 @@
 
 layout: home
 ---
-<img src="/IPM22_23/assets/joao_o.jpeg" width=128 height=128 />
-<img src="/IPM22_23/assets/alexandra_serra.jpeg" width=128 height=128 />
+- [Informações sobre o Projeto](info)

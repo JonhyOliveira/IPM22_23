@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: IPM 2022/23 Project Page
+title: Projeto IPM 2022/23
 # email: 
 # description: >- # this means to ignore newlines until "baseurl:"
 repository: JonhyOliveira/IPM22_23
