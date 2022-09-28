@@ -8,7 +8,7 @@ Neste site estarão apresentados os artefactos criados durante
 o projeto de grupo da UC de IPM (Interação Pessoa-Máquina) da 
 NOVA School of Science (FCT-UNL).
 
-# Membro do Grupo:
+# Membros do Grupo:
 
 | | Nome | Número |
 | :---: | --- | --- |
