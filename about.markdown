@@ -12,7 +12,7 @@ NOVA School of Science (FCT-UNL).
 
 | | Nome | Número |
 | :---: | --- | --- |
-|<img src="https://st3.depositphotos.com/6672868/13701/v/600/depositphotos_137014128-stock-illustration-user-profile-icon.jpg" width=64 height=64 /> | Ruben Belo | 55967 |
+|<img src="/IPM22_23/assets/ruben_belo.jpeg" width=64 height=64 /> | Ruben Belo | 55967 |
 | <img src="/IPM22_23/assets/alexandra_serra.jpeg" width=64 height=64 /> | Alexandra Serra | 64606 |
 | <img src="https://st3.depositphotos.com/6672868/13701/v/600/depositphotos_137014128-stock-illustration-user-profile-icon.jpg" width=64 height=64 /> | Diogo Spencer | 55481 |
 | <img src="/IPM22_23/assets/joao_o.jpeg" width=64 height=64 /> | João Oliveira | 58001 |
