@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<img src="/IPM22_23/assets/joao_o.jpeg" width=128 height=128 />
