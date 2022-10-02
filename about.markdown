@@ -1,14 +1,8 @@
 ---
 layout: page
-title: Informação
-permalink: /info/
+title: Sobre o Grupo
+permalink: /about/
 ---
-
-Neste site estarão apresentados os artefactos criados durante 
-o projeto de grupo da UC de IPM (Interação Pessoa-Máquina) da 
-NOVA School of Science (FCT-UNL).
-
-# Membros do Grupo:
 
 | | Nome | Número |
 | :---: | --- | --- |
