@@ -10,3 +10,5 @@ o projeto de grupo da UC de IPM (Interação Pessoa-Máquina) da
 NOVA School of Science (FCT-UNL).
 
 - [Fase 1 - Proposal](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/Stage%201%20-%20IPM22_23.pdf)
+
+- [Fase 2 - User and Task Analysis](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/Stage%202%20-%20IPM22_23.docx.pdf)
