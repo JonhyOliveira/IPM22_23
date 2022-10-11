@@ -5,12 +5,13 @@
 layout: home
 ---
 
-Neste site estarão apresentados os artefactos criados durante 
-o projeto de grupo da UC de IPM (Interação Pessoa-Máquina) da 
-NOVA School of Science (FCT-UNL).
+In this website you can find the artifacts created during the
+development of the [group](about) project for the 2022/23 class
+of IPM @ FCT-UNL, NOVA School of Science
 
-Relatórios:
+# Reports
 
-- [Phase 1 - Proposal](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/Stage%201%20-%20IPM22_23.pdf)
-
-- [Phase 2 - User and Task Analysis](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/Stage%202%20-%20IPM22_23.docx.pdf)
+| Title | Link |
+| --- | :---: |
+| Phase 1 - Project Proposal | [<img src="/IPM22_23/assets/pdf_ico.png" height=64 />](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/Stage%201%20-%20IPM22_23.pdf) |
+| Phase 2 - User and Task Analysis | [<img src="/IPM22_23/assets/pdf_ico.png" height=64 />](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/Stage%202%20-%20IPM22_23.docx.pdf) | 
