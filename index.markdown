@@ -16,3 +16,10 @@ of IPM @ FCT-UNL, NOVA School of Science
 | Phase 1 - Project Proposal | [<img src="/IPM22_23/assets/pdf_ico.png" height=64 />](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/Stage%201%20-%20IPM22_23.pdf) |
 | Phase 2 - User and Task Analysis | [<img src="/IPM22_23/assets/pdf_ico.png" height=64 />](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/Stage%202%20-%20IPM22_23.docx.pdf) | 
 | Phase 3 - 1st Prototype | [<img src="/IPM22_23/assets/pdf_ico.png" height=64 />](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/Stage%203%20-%20IPM22_23.docx.pdf) | 
+| Phase 4 - Functional Prototype | [<img src="/IPM22_23/assets/pdf_ico.png" height=64 />](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/Stage%204%20-%20IPM22_23.pdf) | 
+
+# Individual Assignment
+
+| Good and bad design | Link |
+| --- | :---: |
+| Alexandra Lélé 64606 | [<img src="/IPM22_23/assets/pdf_ico.png" height=64 />](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/Assignment1_64606.pdf) |
