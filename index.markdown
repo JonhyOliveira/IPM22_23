@@ -17,7 +17,8 @@ of IPM @ FCT-UNL, NOVA School of Science
 | Phase 2 - User and Task Analysis | [<img src="/IPM22_23/assets/pdf_ico.png" height=64 />](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/Stage%202%20-%20IPM22_23.docx.pdf) | 
 | Phase 3 - 1st Prototype | [<img src="/IPM22_23/assets/pdf_ico.png" height=64 />](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/Stage%203%20-%20IPM22_23.docx.pdf) | 
 | Phase 4 - Functional Prototype | [<img src="/IPM22_23/assets/pdf_ico.png" height=64 />](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/Stage%204%20-%20IPM22_23.pdf) | 
-| Phase 5 - Heuristic evaluation | [<img src="/IPM22_23/assets/pdf_ico.png" height=64 />](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/Stage%205%20-%20IPM22_23.pdf) | 
+| Phase 5 - Heuristic evaluation - Created | [<img src="/IPM22_23/assets/pdf_ico.png" height=64 />](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/Stage%205%20-%20IPM22_23.pdf) | 
+| Phase 5 - Heuristic evaluation - Received | [<img src="/IPM22_23/assets/pdf_ico.png" height=64 />](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/G_20_stage5.pdf) | 
 
 # Individual Assignment
 
