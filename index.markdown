@@ -25,3 +25,4 @@ of IPM @ FCT-UNL, NOVA School of Science
 | Good and bad design | Link |
 | --- | :---: |
 | Alexandra Lélé 64606 | [<img src="/IPM22_23/assets/pdf_ico.png" height=64 />](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/Assignment1_64606.pdf) |
+| Diogo Spencer 55481 | [<img src="/IPM22_23/assets/pdf_ico.png" height=64 />](https://raw.githubusercontent.com/JonhyOliveira/IPM22_23/main/IPM_Diogo_Assignment1.pdf) |
